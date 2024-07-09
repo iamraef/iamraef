@@ -1,5 +1,6 @@
-- 👋 Hi, We're @Galaxy-Soft
-- 👀 We're intrested in React, Next JS
+- 👋 Hi, @iamraef
+- I'm UI designer, Web Developer and Also a Music Producer (Checkout)
+- 👀 I'm intrested in Go, Next JS
 
 <!---
 Galaxy-Soft/Galaxy-Soft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
